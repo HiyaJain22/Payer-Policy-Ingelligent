@@ -131,7 +131,7 @@ SLEEP_BETWEEN_ROWS=2
 ```
 
 ---
-
+Hosted on : https://huggingface.co/spaces/Hiyaj/medical_payer_policy_intelligence
 ## Notes
 
 - The index is rebuilt automatically when PDFs are added or modified. Pass
